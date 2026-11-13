@@ -1,4 +1,4 @@
-# TaskFlow NoSQL — Actividad Grupal 01 U2
+# TaskFlow NoSQL — Actividad Grupal 01 U2 
 
 Gestor web de tareas con Firebase Authentication, Google Cloud Firestore (NoSQL), Firebase Hosting y GitHub Actions. No usa Redis, MongoDB, Neo4j ni Prometheus.
 
