@@ -1,10 +1,10 @@
-// Copia el objeto firebaseConfig desde Firebase Console > Configuracion del proyecto > Tus apps > Web.
-// No es una contrasena; la seguridad se define en Firebase Authentication y firestore.rules.
+
 export const firebaseConfig = {
-  apiKey: "REEMPLAZAR_API_KEY",
-  authDomain: "REEMPLAZAR_PROJECT_ID.firebaseapp.com",
-  projectId: "REEMPLAZAR_PROJECT_ID",
-  storageBucket: "REEMPLAZAR_PROJECT_ID.firebasestorage.app",
-  messagingSenderId: "REEMPLAZAR_SENDER_ID",
-  appId: "REEMPLAZAR_APP_ID"
+  apiKey: "AIzaSyCdkuHy2phcJ9fqpIm2u3X5jw3bEwHLzl",
+  authDomain: "taskflow-nosql-bd2.firebaseapp.com",
+  projectId: "taskflow-nosql-bd2",
+  storageBucket: "taskflow-nosql-bd2.firebasestorage.app",
+  messagingSenderId: "52970472186",
+  appId: "1:52970472186:web:3e3c875fe22090a8e67f43",
+  measurementId: "G-NHBSLRR06B"
 };
