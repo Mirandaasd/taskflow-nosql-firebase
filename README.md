@@ -1,2 +1,2 @@
-# taskflow-nosql-firebase-Copiar
+# taskflow-nosql-firebase
 Aplicación web de gestión de tareas con Firebase Firestore y despliegue automático mediante GitHub Actions.
